@@ -1,0 +1,90 @@
+<script>window.open('C:\Users\hi\source\repos\FileUpload2\Photos.File\DM&DM.pdf','_blank');</script>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	I.E Department Review
+</title>
+    <style>
+        h1{
+            text-align:center;
+        }
+        p{
+            text-align:center;
+        }
+        .auto-style1 {
+            margin-left: 180px;
+        }
+        
+    </style>
+</head>
+<body>
+    <form method="post" action="./WebForm1.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="lzE4DwNPRpKgPs4NTvY6deZFoDkpGmUfuzNiPkj08yWq8XwLW7zTGdNH1XDxvABvof1bwxmL5hXgE/jISaSZWg745OoN/+jY/CgUKxsQqV6A5rZVkt0izFKuQdqpT4MIpGL4jvn2MHl1iyB9UnQ6fweuPcggOVYup48ya6A61ZtHwDNvw8FzVGWYkDYk8Hi7FUMnkBh1wktSDcM/XCFJ87JAtxEJO9S9hUxZrWOE86d35uEkR/Pp11eN9x7eeFprmZg8jRI8O7wg/jWZTGllDzJTV2mYpFlPmn+Yn5FQmg6xCYiSgjNWuWFTljT9MpuIeliOofZD1VQsCe/Ia4WMwY+6grLvZFRzHHyuS6rZkxO8V2IcgR1zazfzCIIQl0dren6QwubkHkNgQjDhNUnL2xwKMA+AM8ze0UuG8qAaQhw8P9bQYz395NKGaQPWC8NrvekeF0cp5ESqt/njC8pfx2mF+n7lrRnSgQOIc2dFkbghNgl1JzJYsTVFBvFBM4EWHq3lG/lID+Wn8Z+Go4hIZUHew5i1SDpyGf5j+MoiOAdakIkq+6kRNULPhBdj/yD3DRJ7nXtVlVD+7hXke62eL1q7xkkKU7D+ODaLoXlwognidmmsWvan+CC+HCpbr/UKASJ5ivmYTcWyrwfJoDTOXo16jaoDFdv3d130Knm0LFRVI827G1j8VLll1PX9sjWQLFEGbqBxxkN6vxd/5RgdLq5n7gJGgpgxmG6TNz5FwYTenxyrq+8DSfjB4tx0MtKEDQVBQVudVh2tpcgi2Aw31BA4iB0FKnE+CbawXB1+7lw=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B6E7D48B" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="HdYIu4i4I8PfOegKU1d64scnHDJhy90egGRHTaoj9WdNgpk3S5YTteYVQ27IRL9AoZG8UWLANuG+k3/P6Uqp2Adq5Bx7pAiPppQV+cX7Tgi8zKF7gVSwzYtD3kmLsoCIpRdpkAJxkFxnf+e2BCXoqu0b79zqVvIgmL+GxH/tfS25+kEbvvQsmptrM0/gmonbZd0RQea5n4la+O1nXvtYVfbmzO7GcO7OHMyjCnpxPd1ICzmZO2p53q9j3buWUxUS" />
+</div>
+        <div>
+            <h1>Employee Details Review</h1>
+            <p>Please check the details carefully, write a review and save</p>
+            <div>
+	<table class="auto-style1" cellspacing="0" rules="all" border="1" id="GridView1" style="width:943px;border-collapse:collapse;">
+		<tr>
+			<th scope="col">FirstName</th><th scope="col">LastName</th><th scope="col">Age</th><th scope="col">Designation</th><th scope="col">FilePath</th><th scope="col">Remarks</th>
+		</tr><tr>
+			<td>Emmanuel </td><td>Simon</td><td>20</td><td>HR</td><td>
+                        <a id="GridView1_btnViewFile_0" href="javascript:__doPostBack(&#39;GridView1$ctl02$btnViewFile&#39;,&#39;&#39;)">View</a>
+
+                    </td><td>
+                        <input name="GridView1$ctl02$txtR" type="text" value="Great Performance" id="GridView1_txtR_0" />
+                    </td>
+		</tr><tr>
+			<td>Mani</td><td>Ravan</td><td>20</td><td>GM</td><td>
+                        <a id="GridView1_btnViewFile_1" href="javascript:__doPostBack(&#39;GridView1$ctl03$btnViewFile&#39;,&#39;&#39;)">View</a>
+
+                    </td><td>
+                        <input name="GridView1$ctl03$txtR" type="text" value="Good Performance " id="GridView1_txtR_1" />
+                    </td>
+		</tr><tr>
+			<td>Sumanth</td><td>Rapolu</td><td>20</td><td>HR</td><td>
+                        <a id="GridView1_btnViewFile_2" href="javascript:__doPostBack(&#39;GridView1$ctl04$btnViewFile&#39;,&#39;&#39;)">View</a>
+
+                    </td><td>
+                        <input name="GridView1$ctl04$txtR" type="text" value="Great performance" id="GridView1_txtR_2" />
+                    </td>
+		</tr>
+	</table>
+</div>
+                            <input type="submit" name="Save" value="Save" id="Save" />
+
+        </div>
+        
+    </form>
+</body>
+</html>
